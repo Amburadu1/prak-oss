@@ -1,2 +1,14 @@
 saya arditya rama saputra 
 nim g.231.20.0108
+
+percobaan untuk melakukan pull and push di git dan github:
+1. bukalah terminal/cmd kalo saya menggunakan gitbash
+2. membuatdirectory :praktek-oss
+3. melakukan git init 
+4. coba membuat file .txt
+5. melakukan git add .
+6. melakukan git commit -m 
+7. git remote add origin master ...
+8. melakukan clone file
+9. update file praktek.txt
+9. lakukan add,commit,git push
