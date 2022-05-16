@@ -1,2 +1,2 @@
 # prak-oss
-Praktikum Open source system
+Arditya Rama Saputra - G.231.20.0108
